@@ -8,20 +8,18 @@ name: Matt Effron
 title: RoadTrip
 description: >
   Effron's career roadtrip
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+url: https://effronms.github.io/home
+twitter_username: effronms
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/effronms
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/effronms/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/matteffron/
   - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://github.com/effronms
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
